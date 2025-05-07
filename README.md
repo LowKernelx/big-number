@@ -14,12 +14,12 @@ This is a simple C++ program that compares two numbers and prints the larger one
    g++ -o big-number big-number.cpp
 Run the program:
 
-***bash
+```bash
 ./big-number
 Enter two numbers to compare.
 
 Example
-***bash
+```bash
 Enter the first number: 15
 Enter the second number: 10
 Biggest number: 15
